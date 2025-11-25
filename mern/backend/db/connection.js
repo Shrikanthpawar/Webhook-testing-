@@ -1,7 +1,9 @@
 import { MongoClient, ServerApiVersion } from "mongodb";
 
-const URI = "mongodb://mongodb:27017";
-const client = new MongoClient(URI, {
+const connectionString = "mongodb+srv://Mongo_db_user:Shrikant123@cluster0.aagsyka.mongodb.net/?appName=Cluster0";
+
+const client = new MongoClient(connectionString, {
+
   serverApi: {
     version: ServerApiVersion.v1,
     strict: true,
