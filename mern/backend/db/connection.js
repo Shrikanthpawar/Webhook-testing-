@@ -1,6 +1,6 @@
 import { MongoClient, ServerApiVersion } from "mongodb";
 
-const connectionString = "mongodb+srv://Mongo_db_user:Shrikant123@cluster0.aagsyka.mongodb.net/?appName=Cluster0";
+const connectionString = "empty for security reasons";
 
 const client = new MongoClient(connectionString, {
 

@@ -1,6 +1,6 @@
 # A simple MERN stack application
 
-Testing Jira webhook – change final 2.0
+Testing webhook with slack 917
 
 **Note** - To run this project using `docker compose`, follow the below steps.
 
