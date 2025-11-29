@@ -1,6 +1,6 @@
 # A simple MERN stack application
 
-Testing webhook with slack notify
+Testing webhook with slack notify on mob
 
 **Note** - To run this project using `docker compose`, follow the below steps.
 
